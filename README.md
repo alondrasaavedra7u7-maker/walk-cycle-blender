@@ -7,7 +7,7 @@ Se realizó siguiendo una referencia, pero adaptando las poses de manera propia.
 ## Proceso
 
 1. Se abrió Blender y se configuró el espacio de trabajo en 2D (Grease Pencil).
-2. Se utilizó una referencia de walk cycle y también apoyo de IA para generar ideas de poses del personaje (Kirby).
+2. Se utilizó una referencia visual de un walk cycle (imagen) y apoyo de IA para generar ideas de poses del personaje (Kirby).
 3. Se analizaron las poses principales del ciclo de caminata:
    - Contacto
    - Paso
@@ -17,6 +17,12 @@ Se realizó siguiendo una referencia, pero adaptando las poses de manera propia.
 6. Se crearon los frames intermedios (in-betweens) para lograr una animación más fluida.
 7. Se ajustó la velocidad de reproducción y se revisó la continuidad del movimiento.
 8. Finalmente, se exportó la animación como video en formato (.mp4).
+
+## Referencia
+
+Se utilizó la siguiente imagen como guía para las poses del walk cycle:
+
+![Referencia Walk Cycle](./referencia_walk.png)
 
 ## Archivos
 
