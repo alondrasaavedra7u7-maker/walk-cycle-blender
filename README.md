@@ -20,7 +20,12 @@ Se realizó siguiendo una referencia, pero adaptando las poses de manera propia.
 ## Archivos
 
 - KIRBY.blend → archivo de Blender
+![preview](ruta-imagen.png)
+
 - 0001-0015.mp4 → animación final
+## Video
+
+[Ver animación](./0001-0015.mp4)
 
 - ## Resultado
 
